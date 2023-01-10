@@ -1,7 +1,8 @@
 As per the task given to me I made a University website having the pages HOME, COURSES, CONTACT US, and login page.
 The logo of the website "EDUFORD" means education for development, as your organisatin is one of the leading company in today's world. So i make this website in the field of Xenon education.
 INTERFACE
-![interface](https://user-images.githubusercontent.com/85550997/211586919-4fced8bc-2c7f-4e4e-9686-c8d6345b66ea.png)
+![interface](https://user-images.githubusercontent.com/85550997/211588379-7f0e40c8-631f-47be-8f19-9ea19e31e18f.png)
+
 Here when when we click the visit to know more we switch to the official website of XenonStack.
 COURSES Page
 ![courses](https://user-images.githubusercontent.com/85550997/211587597-f4e8adb9-7cc5-4a0a-9a9f-42f6bd9d8ea6.png)
